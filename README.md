@@ -37,8 +37,8 @@ I Also work as a developer frontend and backend in [H.Studio](http://hstudio.com
 
 Meu nome é Gabriel Teixeira e sou Desenvolvedor Full Stack Júnior.
 
-- ✅  Javascript / PHP / MySLQ / HTML / CSS / Jquery
-- 📕 Learning React, React Native, Node.js e Typescript
+- ✅ Javascript / PHP / MySLQ / HTML / CSS / Jquery
+- 📕 Estudando React, React Native, Node.js e Typescript
 - 📖 Tenho interesse em Next.js, Angular, Laravel e Flutter
 
 Também trabalho como Desenvolvedor Frontend e Backend na [H.Studio](http://hstudio.com.br/)
