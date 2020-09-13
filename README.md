@@ -33,7 +33,7 @@ My name is Gabriel Teixeira and i'm a Full Stack Júnior developer.
 I Also work as a developer frontend and backend in [H.Studio](http://hstudio.com.br/)
 
 # Português
-### Hey! Bem vindo ao meu Github
+### Olá! Bem vindo ao meu Github
 
 Meu nome é Gabriel Teixeira e sou Desenvolvedor Full Stack Júnior.
 
