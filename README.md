@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 My name is Gabriel Teixeira and i'm a Full Stack Júnior developer.
 
 - ✅ Javascript / PHP / MySLQ / HTML / CSS / Jquery
-- 📕 Learning React, React Native, Node.js, Typescript e Postgres.
+- 📕 Learning React, React Native, Node.js, Typescript and Postgres.
 - 📖 I have interest in Next.js, Angular, Laravel and Flutter
 
 I Also work as a developer frontend and backend in [H.Studio](http://hstudio.com.br/)
@@ -38,7 +38,7 @@ I Also work as a developer frontend and backend in [H.Studio](http://hstudio.com
 Meu nome é Gabriel Teixeira e sou Desenvolvedor Full Stack Júnior.
 
 - ✅ Javascript / PHP / MySLQ / HTML / CSS / Jquery
-- 📕 Estudando React, React Native, Node.js, Typescript and Postgres
+- 📕 Estudando React, React Native, Node.js, Typescript e Postgres
 - 📖 Tenho interesse em Next.js, Angular, Laravel e Flutter
 
 Também trabalho como Desenvolvedor Frontend e Backend na [H.Studio](http://hstudio.com.br/)
