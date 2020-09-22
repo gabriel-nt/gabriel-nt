@@ -30,7 +30,7 @@ My name is Gabriel Teixeira and i'm a Full Stack Júnior developer.
 - 📕 Learning React, React Native, Node.js, Typescript and Postgres.
 - 📖 I have interest in Next.js, Angular, Laravel and Flutter
 
-I Also work as a developer frontend and backend in [H.Studio](http://hstudio.com.br/)
+I also work as a developer frontend and backend in [H.Studio](http://hstudio.com.br/)
 
 # Português
 ### Olá! Bem vindo ao meu Github
