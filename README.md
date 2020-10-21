@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 # Gabriel Teixeira 
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://github.com/Gabriel-Teixeira)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gabriel-nt)](https://github.com/gabriel-nt)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-nt/)](https://www.linkedin.com/in/gabriel-nt/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielnt.dev@gmail.com)](mailto:gabrielnt.dev@gmail.com)
-[![Rocketseat Badge](https://img.shields.io/badge/Rocketseat-8257e5?style=flat-square&link=https://app.rocketseat.com.br/me/gabriel-teixeira/)](https://app.rocketseat.com.br/me/gabriel-teixeira)
+[![Rocketseat Badge](https://img.shields.io/badge/Rocketseat-8257e5?style=flat-square&link=https://app.rocketseat.com.br/me/gabriel-nt)](https://app.rocketseat.com.br/me/gabriel-nt)
 
 ### Hey! Welcome to my profile on Github
 
