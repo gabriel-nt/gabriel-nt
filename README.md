@@ -43,3 +43,5 @@ Meu nome é Gabriel Teixeira e sou Desenvolvedor Full Stack Júnior.
 
 Também trabalho como Desenvolvedor Frontend e Backend na [H.Studio](http://hstudio.com.br/)
 
+<img src="https://github-readme-stats.vercel.app/api?username=gabriel-nt&theme=light&show_icons=true" />
+
