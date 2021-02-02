@@ -30,7 +30,7 @@ My name is Gabriel Teixeira and i'm a Full Stack Júnior developer.
 - 📕 Learning Next.js, Redis, Redux, Elixir e Postgres.
 - 📖 I have interest in Angular, Laravel and Flutter
 
-I also work as a developer frontend in [Compasso UOL](https://compasso.com.br/)
+I also work as a Developer Frontend/Backend in [Compasso UOL](https://compasso.com.br/)
 
 # Português
 ### Olá! Bem vindo ao meu Github
@@ -41,7 +41,7 @@ Meu nome é Gabriel Teixeira e sou Desenvolvedor Full Stack Júnior.
 - 📕 Learning Next.js, Redis, Redux, Elixir e Postgres.
 - 📖 Tenho interesse em Angular, Laravel e Flutter
 
-Também trabalho como Desenvolvedor Frontend na [Compasso UOL](https://compasso.com.br/)
+Também trabalho como Desenvolvedor Frontend/Backend na [Compasso UOL](https://compasso.com.br/)
 
 <img src="https://github-readme-stats.vercel.app/api?username=gabriel-nt&theme=light&show_icons=true" />
 
