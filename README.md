@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ### Hey! Welcome to my profile on Github
 
-My name is Gabriel Teixeira and i'm a Full Stack Júnior developer.
+My name is Gabriel Teixeira and i'm a Full Stack Developer.
 
 - ✅ JS / PHP / React / React Native / Node
 - 📕 Learning Next.js, Redis, Redux, Elixir e Postgres.
@@ -35,7 +35,7 @@ I also work as a Developer Frontend/Backend in [Compasso UOL](https://compasso.c
 # Português
 ### Olá! Bem vindo ao meu Github
 
-Meu nome é Gabriel Teixeira e sou Desenvolvedor Full Stack Júnior.
+Meu nome é Gabriel Teixeira e sou Desenvolvedor Full Stack.
 
 - ✅ JS / PHP / React / React Native / Node
 - 📕 Learning Next.js, Redis, Redux, Elixir e Postgres.
