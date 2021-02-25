@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 My name is Gabriel Teixeira and i'm a Full Stack Developer.
 
-- ✅ JS / PHP / React / React Native / Node
+- ✅ TS / React / React Native / Node / PHP
 - 📕 Learning Next.js, Redis, Redux, Elixir e Postgres.
 - 📖 I have interest in Angular, Laravel and Flutter
 
@@ -37,7 +37,7 @@ I also work as a Developer Frontend/Backend in [Compasso UOL](https://compasso.c
 
 Meu nome é Gabriel Teixeira e sou Desenvolvedor Full Stack.
 
-- ✅ JS / PHP / React / React Native / Node
+- ✅ TS / React / React Native / Node / PHP
 - 📕 Learning Next.js, Redis, Redux, Elixir e Postgres.
 - 📖 Tenho interesse em Angular, Laravel e Flutter
 
