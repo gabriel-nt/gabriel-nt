@@ -13,7 +13,7 @@ My name is Gabriel Teixeira and i'm a Full Stack Developer.
 - 📕 Learning Next.js, Redis, Redux, Flutter e Postgres.
 - 📖 I have interest in Angular, Laravel and Electron
 
-I also work as a Developer Frontend/Backend in [Compasso UOL](https://compasso.com.br/)
+I also work as a Frontend/Backend Developer in [Compasso UOL](https://compasso.com.br/)
 
 # Português
 ### Olá! Bem vindo ao meu Github
