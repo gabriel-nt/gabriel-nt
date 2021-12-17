@@ -7,7 +7,7 @@
 
 ### Hey! Welcome to my profile on Github
 
-My name is Gabriel Teixeira and i'm a Full Stack Developer.
+My name is Gabriel Teixeira and I'm a Full Stack Developer.
 
 - ✅ TS / React / React Native / Node / PHP
 - 📕 Learning Next.js, Redis, Redux, Flutter e Postgres.
