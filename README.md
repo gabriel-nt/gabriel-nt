@@ -13,7 +13,7 @@ My name is Gabriel Teixeira and I'm a Full Stack Developer.
 - 📕 Learning Nest.js, Redis, Redux e GraphQL.
 - 📖 I have interest in Angular, Flutter, Laravel and Electron.
 
-I also work as a Frontend/Backend Developer in [Compasso UOL](https://compasso.com.br/)
+I also work as a Frontend/Backend Developer in [Americanas s.a](https://www.linkedin.com/company/americanas-sa/)
 
 # Português
 ### Olá! Bem vindo ao meu Github
@@ -24,7 +24,7 @@ Meu nome é Gabriel Teixeira e sou Desenvolvedor Full Stack.
 - 📕 Estudando Nest.js, Redis, Redux e GraphQL.
 - 📖 Tenho interesse em Angular, Flutter, Laravel e Electron.
 
-Também trabalho como Desenvolvedor Frontend/Backend na [Compasso UOL](https://compasso.com.br/)
+Também trabalho como Desenvolvedor Frontend/Backend na [Americanas s.a](https://www.linkedin.com/company/americanas-sa/)
 
 <div>
   <img height='180em' src="https://github-readme-stats.vercel.app/api?username=gabriel-nt&theme=light&show_icons=true" />
