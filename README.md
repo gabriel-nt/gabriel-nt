@@ -13,7 +13,7 @@ My name is Gabriel Teixeira and I'm a FullStack Developer.
 - 📕 Learning Nest.js, kubernetes, AWS EC2.
 - 📖 I have interest in Angular, Vue, Flutter, Laravel and Electron.
 
-I also work as a Frontend Developer in [Americanas s.a](https://www.linkedin.com/company/americanas-sa/)
+I also work as a Frontend Developer in [Portal Solar](https://www.linkedin.com/company/portal-solar/)
 
 # Português
 ### Olá! Bem vindo ao meu Github
@@ -24,7 +24,7 @@ Meu nome é Gabriel Teixeira e sou Desenvolvedor FullStack.
 - 📕 Estudando Nest.js, kubernetes, AWS EC2.
 - 📖 Tenho interesse em Angular, Vue, Flutter, Laravel e Electron.
 
-Também trabalho como Desenvolvedor Frontend na [Americanas s.a](https://www.linkedin.com/company/americanas-sa/)
+Também trabalho como Desenvolvedor Frontend na [Portal Solar](https://www.linkedin.com/company/portal-solar/)
 
 <div>
   <img height='180em' src="https://github-readme-stats.vercel.app/api?username=gabriel-nt&theme=light&show_icons=true" />
