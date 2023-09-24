@@ -9,22 +9,22 @@
 
 My name is Gabriel Teixeira and I'm a FullStack Developer.
 
-- ✅ React (TS) / Next / React Native / Node / PHP.
+- ✅ React (TS) / Next / React Native / Node.
 - 📕 Learning Nest.js, kubernetes, AWS EC2.
-- 📖 I have interest in Angular, Vue, Flutter, Laravel and Electron.
+- 📖 I have interest in Kotlin, Swift and Electron.
 
-I also work as a Frontend Developer in [Portal Solar](https://www.linkedin.com/company/portal-solar/)
+I also work as a Fullstack Developer in [Portal Solar](https://www.linkedin.com/company/portal-solar/)
 
 # Português
 ### Olá! Bem vindo ao meu Github
 
 Meu nome é Gabriel Teixeira e sou Desenvolvedor FullStack.
 
-- ✅ React (TS) / Next / React Native / Node / PHP.
+- ✅ React (TS) / Next / React Native / Node.
 - 📕 Estudando Nest.js, kubernetes, AWS EC2.
-- 📖 Tenho interesse em Angular, Vue, Flutter, Laravel e Electron.
+- 📖 Tenho interesse em Kotlin, Swift e Electron.
 
-Também trabalho como Desenvolvedor Frontend na [Portal Solar](https://www.linkedin.com/company/portal-solar/)
+Também trabalho como Desenvolvedor Fullstack na [Portal Solar](https://www.linkedin.com/company/portal-solar/)
 
 <div>
   <img height='180em' src="https://github-readme-stats.vercel.app/api?username=gabriel-nt&theme=light&show_icons=true" />
