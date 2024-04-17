@@ -13,7 +13,7 @@ My name is Gabriel Teixeira and I'm a FullStack Developer.
 - 📕 Learning Nest.js, kubernetes, AWS EC2.
 - 📖 I have interest in Kotlin, Swift and Electron.
 
-I also work as a Software Engineer in [Stone](https://www.linkedin.com/company/stone/)
+I also work as a Software Engineer in [Natura &Co](https://www.linkedin.com/company/naturaandco)
 
 # Português
 ### Olá! Bem vindo ao meu Github
@@ -24,7 +24,7 @@ Meu nome é Gabriel Teixeira e sou Desenvolvedor FullStack.
 - 📕 Estudando Nest.js, kubernetes, AWS EC2.
 - 📖 Tenho interesse em Kotlin, Swift e Electron.
 
-Também trabalho como Engenheiro de Software na [Stone](https://www.linkedin.com/company/stone/)
+Também trabalho como Engenheiro de Software na [Natura &Co](https://www.linkedin.com/company/naturaandco)
 
 <div>
   <img height='180em' src="https://github-readme-stats.vercel.app/api?username=gabriel-nt&theme=light&show_icons=true" />
